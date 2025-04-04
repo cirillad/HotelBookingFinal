@@ -1,0 +1,15 @@
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\bin\Debug\net9.0\HotelBooking.BLL.deps.json
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\bin\Debug\net9.0\HotelBooking.BLL.dll
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\bin\Debug\net9.0\HotelBooking.BLL.pdb
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\bin\Debug\net9.0\HotelBooking.DAL.dll
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\bin\Debug\net9.0\HotelBooking.DAL.pdb
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\obj\Debug\net9.0\HotelBooking.BLL.csproj.AssemblyReference.cache
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\obj\Debug\net9.0\HotelBooking.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\obj\Debug\net9.0\HotelBooking.BLL.AssemblyInfoInputs.cache
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\obj\Debug\net9.0\HotelBooking.BLL.AssemblyInfo.cs
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\obj\Debug\net9.0\HotelBooking.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\obj\Debug\net9.0\HotelBoo.90F5A0E2.Up2Date
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\obj\Debug\net9.0\HotelBooking.BLL.dll
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\obj\Debug\net9.0\refint\HotelBooking.BLL.dll
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\obj\Debug\net9.0\HotelBooking.BLL.pdb
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.BLL\obj\Debug\net9.0\ref\HotelBooking.BLL.dll

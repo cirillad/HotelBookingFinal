@@ -1,0 +1,14 @@
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\bin\Debug\net9.0\HotelBooking.DAL.deps.json
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\bin\Debug\net9.0\HotelBooking.DAL.runtimeconfig.json
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\bin\Debug\net9.0\HotelBooking.DAL.dll
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\bin\Debug\net9.0\HotelBooking.DAL.pdb
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\obj\Debug\net9.0\HotelBooking.DAL.csproj.AssemblyReference.cache
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\obj\Debug\net9.0\HotelBooking.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\obj\Debug\net9.0\HotelBooking.DAL.AssemblyInfoInputs.cache
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\obj\Debug\net9.0\HotelBooking.DAL.AssemblyInfo.cs
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\obj\Debug\net9.0\HotelBooking.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\obj\Debug\net9.0\HotelBooking.DAL.dll
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\obj\Debug\net9.0\refint\HotelBooking.DAL.dll
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\obj\Debug\net9.0\HotelBooking.DAL.pdb
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\obj\Debug\net9.0\HotelBooking.DAL.genruntimeconfig.cache
+C:\Users\ciri\Desktop\HotelBooking\HotelBooking.DAL\obj\Debug\net9.0\ref\HotelBooking.DAL.dll
